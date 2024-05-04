@@ -1,4 +1,3 @@
-// GenreFilter.js
 import React from 'react';
 
 function GenreFilter({ genres }) {
